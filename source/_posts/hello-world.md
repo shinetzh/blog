@@ -1,6 +1,6 @@
 ---
-title: First Post
-categories: "first"
+title: Hello World
+categories: "hexo"
 tags: 
     - LLM
     - VLM
